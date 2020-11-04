@@ -1,0 +1,7 @@
+C:\Users\MZ\Desktop\Desktop-Client-Serveur\CsharpPreactice\CsharpPreactice\bin\Debug\CsharpPreactice.exe.config
+C:\Users\MZ\Desktop\Desktop-Client-Serveur\CsharpPreactice\CsharpPreactice\bin\Debug\CsharpPreactice.exe
+C:\Users\MZ\Desktop\Desktop-Client-Serveur\CsharpPreactice\CsharpPreactice\bin\Debug\CsharpPreactice.pdb
+C:\Users\MZ\Desktop\Desktop-Client-Serveur\CsharpPreactice\CsharpPreactice\obj\Debug\CsharpPreactice.csprojAssemblyReference.cache
+C:\Users\MZ\Desktop\Desktop-Client-Serveur\CsharpPreactice\CsharpPreactice\obj\Debug\CsharpPreactice.csproj.CoreCompileInputs.cache
+C:\Users\MZ\Desktop\Desktop-Client-Serveur\CsharpPreactice\CsharpPreactice\obj\Debug\CsharpPreactice.exe
+C:\Users\MZ\Desktop\Desktop-Client-Serveur\CsharpPreactice\CsharpPreactice\obj\Debug\CsharpPreactice.pdb
